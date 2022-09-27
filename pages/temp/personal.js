@@ -4,6 +4,7 @@
     import NavBarLayout from "./navbar_layout"
 
     export default function Personal(){
+        const example = 0;
         // const steps = [
         //     "Personal",
         //     "FamilyBackground",
